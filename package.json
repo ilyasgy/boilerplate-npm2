@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "slayserx",
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
